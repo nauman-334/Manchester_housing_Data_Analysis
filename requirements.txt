@@ -7,3 +7,4 @@ statsmodels
 ipykernel
 nbclient
 notebook
+-e .
