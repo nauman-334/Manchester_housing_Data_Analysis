@@ -220,3 +220,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 .DS_Store
+# Project outputs
+logs/
+artifacts/
+setup_log.txt
