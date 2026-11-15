@@ -17,7 +17,7 @@ This function will retuen the list of requirements
     return requirements
 
 setup(
-    name= 'Programming Data Analytics: Project Manchster Housing Data Analysis',
+    name= 'Manchester_housing_Data_Analysis',
     version='3.13.6',
     author='Nauman',
     author_email='legendofcs1@gmail.com',
